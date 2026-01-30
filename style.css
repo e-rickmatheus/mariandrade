@@ -431,12 +431,6 @@ header {
     color: var(--primary-color);
 }
 
-.stars {
-    color: #D4AF37;
-    font-size: 1.2rem;
-    margin-top: var(--spacing-xs);
-}
-
 /* Contact */
 .contact-wrapper {
     display: grid;
